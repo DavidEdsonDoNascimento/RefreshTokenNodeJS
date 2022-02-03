@@ -12,10 +12,21 @@ or
 yarn
 ```
 
+## create database in POSTGRESQL:
+
+- CREATE DATABASE refreshtoken;
+- add database string in .env
+
 ## run migrations:
 
 ```
 yarn prisma migrate dev
+```
+
+## run project:
+
+```
+yarn dev
 ```
 
 ## Existing routes:
