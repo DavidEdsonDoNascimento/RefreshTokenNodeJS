@@ -1,6 +1,8 @@
 # NodeJS Refresh Token
 
-Basic design featuring the token handling back-end (login|refresh)
+Basic design with token handling backend (login|update)
+
+This is a good project to use as an example for future projects, the structure of Controllers, Services and Models was used, in addition to separating the routes in ./routes
 
 - the postgresql database was used
 
